@@ -22,43 +22,42 @@ export default Controller.extend({
             link: 'i-i-s-gostinica-обяз-сотр-l',
             caption: i18n.t('forms.application.sitemap.gostinica.i-i-s-gostinica-обяз-сотр-l.caption'),
             title: i18n.t('forms.application.sitemap.gostinica.i-i-s-gostinica-обяз-сотр-l.title'),
-            icon: 'edit',
+            icon: 'file',
             children: null
           }, {
             link: 'i-i-s-gostinica-т-ч-обяз-сотр-l',
             caption: i18n.t('forms.application.sitemap.gostinica.i-i-s-gostinica-т-ч-обяз-сотр-l.caption'),
             title: i18n.t('forms.application.sitemap.gostinica.i-i-s-gostinica-т-ч-обяз-сотр-l.title'),
-            icon: 'address card',
+            icon: 'phone',
             children: null
           }, {
             link: 'i-i-s-gostinica-гостиница-l',
             caption: i18n.t('forms.application.sitemap.gostinica.i-i-s-gostinica-гостиница-l.caption'),
             title: i18n.t('forms.application.sitemap.gostinica.i-i-s-gostinica-гостиница-l.title'),
-            icon: 'phone',
+            icon: 'calendar',
             children: null
           }, {
             link: 'i-i-s-gostinica-персонал-l',
             caption: i18n.t('forms.application.sitemap.gostinica.i-i-s-gostinica-персонал-l.caption'),
             title: i18n.t('forms.application.sitemap.gostinica.i-i-s-gostinica-персонал-l.title'),
-            icon: 'building',
+            icon: 'edit',
             children: null
           }, {
             link: 'i-i-s-gostinica-должности-l',
             caption: i18n.t('forms.application.sitemap.gostinica.i-i-s-gostinica-должности-l.caption'),
             title: i18n.t('forms.application.sitemap.gostinica.i-i-s-gostinica-должности-l.title'),
-            icon: 'edit',
             children: null
           }, {
             link: 'i-i-s-gostinica-штат-распис-l',
             caption: i18n.t('forms.application.sitemap.gostinica.i-i-s-gostinica-штат-распис-l.caption'),
             title: i18n.t('forms.application.sitemap.gostinica.i-i-s-gostinica-штат-распис-l.title'),
-            icon: 'folder open',
+            icon: 'tasks',
             children: null
           }, {
             link: 'i-i-s-gostinica-т-ч-штат-расп-l',
             caption: i18n.t('forms.application.sitemap.gostinica.i-i-s-gostinica-т-ч-штат-расп-l.caption'),
             title: i18n.t('forms.application.sitemap.gostinica.i-i-s-gostinica-т-ч-штат-расп-l.title'),
-            icon: 'briefcase',
+            icon: 'table',
             children: null
           }]
         }
