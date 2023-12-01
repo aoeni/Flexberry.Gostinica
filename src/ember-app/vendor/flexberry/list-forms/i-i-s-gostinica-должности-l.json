@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-gostinica-должности-e",
+  "editForm": "i-i-s-gostinica-должности-e",
+  "external": false,
+  "caption": "Должности",
+  "name": "IISGostinicaДолжностиL",
+  "className": "ДолжностиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gostinica-должности",
+      "modelProjection": "ДолжностиL"
+    }
+  ]
+}

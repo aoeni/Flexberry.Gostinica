@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-gostinica-т-ч-обяз-сотр-e",
+  "editForm": "i-i-s-gostinica-т-ч-обяз-сотр-e",
+  "external": false,
+  "caption": "Т ч обяз сотр",
+  "name": "IISGostinicaТЧОбязСотрL",
+  "className": "ТЧОбязСотрL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gostinica-т-ч-обяз-сотр",
+      "modelProjection": "ТЧОбязСотрL"
+    }
+  ]
+}

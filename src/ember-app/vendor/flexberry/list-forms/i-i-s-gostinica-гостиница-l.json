@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-gostinica-гостиница-e",
+  "editForm": "i-i-s-gostinica-гостиница-e",
+  "external": false,
+  "caption": "Гостиница",
+  "name": "IISGostinicaГостиницаL",
+  "className": "ГостиницаL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gostinica-гостиница",
+      "modelProjection": "ГостиницаL"
+    }
+  ]
+}

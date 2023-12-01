@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-gostinica-т-ч-штат-расп-e",
+  "editForm": "i-i-s-gostinica-т-ч-штат-расп-e",
+  "external": false,
+  "caption": "Т ч штат расп",
+  "name": "IISGostinicaТЧШтатРаспL",
+  "className": "ТЧШтатРаспL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gostinica-т-ч-штат-расп",
+      "modelProjection": "ТЧШтатРаспL"
+    }
+  ]
+}

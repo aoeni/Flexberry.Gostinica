@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Гостиница",
+  "name": "IISGostinicaГостиницаE",
+  "className": "ГостиницаE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gostinica-гостиница",
+      "modelProjection": "ГостиницаE"
+    }
+  ]
+}

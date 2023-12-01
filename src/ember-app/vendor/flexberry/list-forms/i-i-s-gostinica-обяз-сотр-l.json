@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-gostinica-обяз-сотр-e",
+  "editForm": "i-i-s-gostinica-обяз-сотр-e",
+  "external": false,
+  "caption": "Обяз сотр",
+  "name": "IISGostinicaОбязСотрL",
+  "className": "ОбязСотрL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gostinica-обяз-сотр",
+      "modelProjection": "ОбязСотрL"
+    }
+  ]
+}

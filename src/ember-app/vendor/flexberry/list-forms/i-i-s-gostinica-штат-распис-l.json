@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-gostinica-штат-распис-e",
+  "editForm": "i-i-s-gostinica-штат-распис-e",
+  "external": false,
+  "caption": "Штат распис",
+  "name": "IISGostinicaШтатРасписL",
+  "className": "ШтатРасписL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gostinica-штат-распис",
+      "modelProjection": "ШтатРасписL"
+    }
+  ]
+}

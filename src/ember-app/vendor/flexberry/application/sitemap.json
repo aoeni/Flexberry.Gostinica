@@ -1,0 +1,64 @@
+﻿{
+  "applicationCaption": "Gostinica",
+  "applicationTitle": "Gostinica",
+  "items": [
+    {
+      "link": null,
+      "menuName": "gostinica",
+      "caption": "Gostinica",
+      "title": "Gostinica",
+      "children": [
+        {
+          "link": "i-i-s-gostinica-обяз-сотр-l",
+          "menuName": null,
+          "caption": "Обяз сотр",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-gostinica-т-ч-обяз-сотр-l",
+          "menuName": null,
+          "caption": "Т ч обяз сотр",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-gostinica-гостиница-l",
+          "menuName": null,
+          "caption": "Гостиница",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-gostinica-персонал-l",
+          "menuName": null,
+          "caption": "Персонал",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-gostinica-должности-l",
+          "menuName": null,
+          "caption": "Должности",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-gostinica-штат-распис-l",
+          "menuName": null,
+          "caption": "Штат распис",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-gostinica-т-ч-штат-расп-l",
+          "menuName": null,
+          "caption": "Т ч штат расп",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

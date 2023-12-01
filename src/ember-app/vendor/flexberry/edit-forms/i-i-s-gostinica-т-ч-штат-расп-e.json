@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Персонал",
+      "projection": "ПерсоналL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Т ч штат расп",
+  "name": "IISGostinicaТЧШтатРаспE",
+  "className": "ТЧШтатРаспE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gostinica-т-ч-штат-расп",
+      "modelProjection": "ТЧШтатРаспE"
+    }
+  ]
+}

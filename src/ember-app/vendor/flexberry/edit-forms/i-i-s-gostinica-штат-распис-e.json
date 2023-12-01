@@ -1,0 +1,39 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Гостиница",
+      "projection": "ГостиницаL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "ТЧШтатРасп",
+      "projection": "ТЧШтатРаспL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Персонал",
+      "projection": "ПерсоналL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Штат распис",
+  "name": "IISGostinicaШтатРасписE",
+  "className": "ШтатРасписE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-gostinica-штат-распис",
+      "modelProjection": "ШтатРасписE"
+    }
+  ]
+}

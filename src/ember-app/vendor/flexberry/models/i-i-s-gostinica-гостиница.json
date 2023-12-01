@@ -1,0 +1,96 @@
+﻿{
+  "name": "IISGostinicaГостиница",
+  "modelName": "i-i-s-gostinica-гостиница",
+  "className": "Гостиница",
+  "nameSpace": "IIS.Gostinica",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "наименование",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "оКПО",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    },
+    {
+      "name": "оПФ",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ГостиницаE",
+      "modelName": "i-i-s-gostinica-гостиница",
+      "attrs": [
+        {
+          "name": "наименование",
+          "caption": "Наименование",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "оПФ",
+          "caption": "ОПФ",
+          "hidden": false,
+          "index": 1
+        },
+        {
+          "name": "оКПО",
+          "caption": "ОКПО",
+          "hidden": false,
+          "index": 2
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "ГостиницаL",
+      "modelName": "i-i-s-gostinica-гостиница",
+      "attrs": [
+        {
+          "name": "наименование",
+          "caption": "Наименование",
+          "hidden": false,
+          "index": 0
+        },
+        {
+          "name": "оПФ",
+          "caption": "ОПФ",
+          "hidden": false,
+          "index": 1
+        },
+        {
+          "name": "оКПО",
+          "caption": "ОКПО",
+          "hidden": false,
+          "index": 2
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
